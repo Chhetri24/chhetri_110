@@ -1,2 +1,2 @@
-# chhetri_110
+# Chhetri_110
 Its my first DevOps repo
